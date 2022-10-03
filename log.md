@@ -75,3 +75,15 @@
 - Learnt about 30 Day JavaScript Challenge
 - learnt basics of github
 **Thoughts:** Hackathon is the best place to learn and develop oneself, it's the greatest platform to prove one's knowledge
+
+
+### Day 9: October 2, 2022
+- Completed Daily Code Wars
+- Building Accesibilty Quiz in  Responsibe Web Design by freecodecamp
+- learnt about few array methods
+- completed homework of class 22
+**Today's Progress**: 
+**Thoughts:** One Week holidays are started, I want to make the most of these days
+
+
+
