@@ -78,12 +78,22 @@
 
 
 ### Day 9: October 2, 2022
+
+**Today's Progress**: 
 - Completed Daily Code Wars
 - Building Accesibilty Quiz in  Responsibe Web Design by freecodecamp
 - learnt about few array methods
 - completed homework of class 22
-**Today's Progress**: 
 **Thoughts:** One Week holidays are started, I want to make the most of these days
 
 
+### Day 10: October 3, 2022
+
+**Today's Progress**:
+- Completed class 23 & homework of #100Devs which took a brief intro into the world of APIs
+- Completed Daily Kata of CodeWars
+- Completed Accessibility quiz from FreeCodeCamp
+- Started 30 Days JavaScript challenge and built key drum 
+- Learnt Bubble sort
+**Thoughts:** Learnt about APIs, planning to build more consistency. Should start working on Tribute page project for FreeCodeCamp Responsive web design course tomorrow
 
