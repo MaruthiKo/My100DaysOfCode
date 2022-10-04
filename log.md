@@ -42,7 +42,7 @@
 - Completed class 20 Practice JS Arrays
 - had a little progress in typography section from responsive web design course
 - learnt about binary search
-- 
+
 **Thoughts:** Could not complete many things as I am suffering from cold
 
 
@@ -74,6 +74,7 @@
 - Learnt about two Crystal Balls problem
 - Learnt about 30 Day JavaScript Challenge
 - learnt basics of github
+
 **Thoughts:** Hackathon is the best place to learn and develop oneself, it's the greatest platform to prove one's knowledge
 
 
@@ -84,6 +85,7 @@
 - Building Accesibilty Quiz in  Responsibe Web Design by freecodecamp
 - learnt about few array methods
 - completed homework of class 22
+
 **Thoughts:** One Week holidays are started, I want to make the most of these days
 
 
@@ -95,5 +97,18 @@
 - Completed Accessibility quiz from FreeCodeCamp
 - Started 30 Days JavaScript challenge and built key drum 
 - Learnt Bubble sort
+
 **Thoughts:** Learnt about APIs, planning to build more consistency. Should start working on Tribute page project for FreeCodeCamp Responsive web design course tomorrow
 
+### Day 11: October 4, 2022
+
+**Today's Progress**:
+- Watched class24 of #100Devs on Github
+- Completed a JS+CSS clock of 30DaysJS
+- completed daily Code Wars Kata, 60% of 7kyu completed
+- started to build a Tribute Landing Page of Responsive Web Design course
+- learnt about how to get a job using LinkedIn
+
+**Thoughts:** 
+2nd most productive until today, realized that an individual's LinkedIn profile is his 2nd resume, building/maintaining these social media profiles is as important as building projects to land a tech job. Networking can open doors to opportunities that one can never think
+`Keep Learning Keep Growing`
