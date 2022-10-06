@@ -112,3 +112,19 @@
 **Thoughts:** 
 2nd most productive until today, realized that an individual's LinkedIn profile is his 2nd resume, building/maintaining these social media profiles is as important as building projects to land a tech job. Networking can open doors to opportunities that one can never think
 `Keep Learning Keep Growing`
+
+
+### Day 12-13: October 5 - 6, 2022 
+- ✅ Watched class 26 of #100Devs 
+- ✅ Learnt about Object Oriented Programming
+- 4 Pillars of OOP
+- ~ Abstraction
+- ~ Encapsulation
+- ~ Inheritance
+- ~ Polymorphism
+- ✅ Tribute Page for ResponsiveWebDesign course 
+- ✅ 7kyu Codewars 
+- ✅ Brainstorming for Project Ideas
+
+**Thoughts:**
+Had a half day break to hangout with friends and learnt a lot about OOPs and many other new things,made myself understand that `Learning to become a Software Engineer is a marathon not a Race`. Gotta go a little slow and take time to work more on certain things
