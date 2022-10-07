@@ -128,3 +128,16 @@
 
 **Thoughts:**
 Had a half day break to hangout with friends and learnt a lot about OOPs and many other new things,made myself understand that `Learning to become a Software Engineer is a marathon not a Race`. Gotta go a little slow and take time to work more on certain things
+
+
+
+### Day 14:October 7, 2022
+- ✅ Close to reach 6Kyu in code wars
+- ✅ Built a Portfolio Website
+- ✅ Homework of class 26 #100Devs
+- ✅ Learnt about modules in JavaScript
+- Link to my Portfolio Website:
+https://portfolio-aboutme.netlify.app/
+
+**Thoughts:**
+Hardwork really paysOff, after a lot of struggle I succeded in making a portfolio website using HTML,CSS,JavaScript. Learnt the power of API's and currently working on a mocktail-website using API's
