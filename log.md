@@ -141,3 +141,15 @@ https://portfolio-aboutme.netlify.app/
 
 **Thoughts:**
 Hardwork really paysOff, after a lot of struggle I succeded in making a portfolio website using HTML,CSS,JavaScript. Learnt the power of API's and currently working on a mocktail-website using API's
+
+
+### Day 15:October 8, 2022
+- ✅ Reached 6kyu in CodeWars
+- ✅ watched class 27 #100Devs
+- ✅ learnt a lot about API's
+- ✅ Worked on a card game using Deck of Cards API
+- ✅ Had a look in NASA and built an app that uses a particular date to return an image/video of that day by NASA
+- ✅ Learnt about BANKI
+- ✅ Interacted with Postman
+**Thoughts:**
+learning about API's spreads the wings of a developer and increases the exposure an individual has on web development. Can't wait to use more and more API's to build great things
