@@ -151,5 +151,15 @@ Hardwork really paysOff, after a lot of struggle I succeded in making a portfoli
 - ✅ Had a look in NASA and built an app that uses a particular date to return an image/video of that day by NASA
 - ✅ Learnt about BANKI
 - ✅ Interacted with Postman
+
 **Thoughts:**
 learning about API's spreads the wings of a developer and increases the exposure an individual has on web development. Can't wait to use more and more API's to build great things
+
+### Day 16: October 9, 2022
+- ✅Watched a refresher on HTML&CSS
+- ✅completed Daily Code Wars
+- ✅ built a responsive landing page using HTML,CSS
+- ✅ had a deep dive into open-source
+
+**Thoughts:**
+Just by building landing page, I felt I learned a lot of HTML&CSS, This the power of projects.
