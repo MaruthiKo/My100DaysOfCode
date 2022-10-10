@@ -163,3 +163,12 @@ learning about API's spreads the wings of a developer and increases the exposure
 
 **Thoughts:**
 Just by building landing page, I felt I learned a lot of HTML&CSS, This the power of projects.
+
+### Day 17: October 10,2022
+- ✅Built a balance sheet in the Responsive Web Design Course
+- ✅ Completed daily code wars kata
+- ✅ Working on the login page for an open-source project
+- ✅ Watching class 28 of #100Devs 
+
+**Thoughts:**
+My phone is under repair due to some display issue, can't for tomorrow evening to get my phone.
