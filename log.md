@@ -172,3 +172,15 @@ Just by building landing page, I felt I learned a lot of HTML&CSS, This the powe
 
 **Thoughts:**
 My phone is under repair due to some display issue, can't for tomorrow evening to get my phone.
+
+
+### Day 18: October 11,2022
+
+- ✅Daily code wars Kata
+- ✅ added a repo for my code wars solutions
+- ✅ Worked on NASA API to draw an image/video based on the date
+- ✅ Worked on Cards Deck API to draw 2 random cards from a deck of cards
+
+**Thoughts:**
+Worked on API's and could not build any project on them for today as there is a lot of college work, will rap it up today and start working a project using APIs
+
