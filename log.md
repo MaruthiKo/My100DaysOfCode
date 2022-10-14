@@ -176,7 +176,7 @@ My phone is under repair due to some display issue, can't for tomorrow evening t
 
 ### Day 18: October 11,2022
 
-- ✅Daily code wars Kata
+- ✅ Daily code wars Kata
 - ✅ added a repo for my code wars solutions
 - ✅ Worked on NASA API to draw an image/video based on the date
 - ✅ Worked on Cards Deck API to draw 2 random cards from a deck of cards
@@ -184,3 +184,12 @@ My phone is under repair due to some display issue, can't for tomorrow evening t
 **Thoughts:**
 Worked on API's and could not build any project on them for today as there is a lot of college work, will rap it up today and start working a project using APIs
 
+### Day 19-21: October 14,2022
+
+- ✅ Watched an intro to copy writing
+- ✅ Worked on few open source projects by adding some features to them(Ex: Owl Carousel)
+- ✅ Watched class 28 @100Devs
+- ✅ Daily Code wars Kata
+
+**Thoughts**:
+Open Source is too good, you will have accpeted PR and also rejected ones, but work on improving yourself and understand the necessity in a project, don't limit yourself to one project keep working and you will reach your goal one day
