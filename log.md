@@ -191,5 +191,14 @@ Worked on API's and could not build any project on them for today as there is a 
 - ✅ Watched class 28 @100Devs
 - ✅ Daily Code wars Kata
 
-**Thoughts**:
+**Thoughts:**
 Open Source is too good, you will have accpeted PR and also rejected ones, but work on improving yourself and understand the necessity in a project, don't limit yourself to one project keep working and you will reach your goal one day
+
+### Day 22-23: October 15,2022 
+- ✅ Worked with D&D API
+- ✅ Had a lot of reading through recent trends and job opportunities
+- ✅ Daily Code Wars
+- ✅ Added a new feature[Owl Carousel] to a repo
+
+**Thoughts:**
+Working on myself to become a freelancer, it's not an easy task but at the same time it's not an impossible task
