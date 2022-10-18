@@ -202,3 +202,12 @@ Open Source is too good, you will have accpeted PR and also rejected ones, but w
 
 **Thoughts:**
 Working on myself to become a freelancer, it's not an easy task but at the same time it's not an impossible task
+
+
+### Day 24-25: October 18,2022 
+- ✅ Brushed up my HTML by building a website body
+- ✅ Daily Code War Kata
+- ✅ Started with BANKI
+
+**Thoughts:**
+BANKI -> Interview questions Bank + ANKI, planning on doing atleast one ques everyday with changing domain of questions everyweek
