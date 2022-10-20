@@ -211,3 +211,12 @@ Working on myself to become a freelancer, it's not an easy task but at the same 
 
 **Thoughts:**
 BANKI -> Interview questions Bank + ANKI, planning on doing atleast one ques everyday with changing domain of questions everyweek
+
+### Day 26-27: October 20,2022
+- ✅ Daily Code Wars Kata
+- ✅ Started a blog on The 100's of my life
+- ✅ Looking for working on an opensource Project
+- ✅ Brushing up my CSS Skills
+
+**Thoughts:**
+Writing blogs is an efficient way of developing your writing skills and also it works as proof of your work, which can help others to learn and analyze one's journey.
