@@ -220,3 +220,14 @@ BANKI -> Interview questions Bank + ANKI, planning on doing atleast one ques eve
 
 **Thoughts:**
 Writing blogs is an efficient way of developing your writing skills and also it works as proof of your work, which can help others to learn and analyze one's journey.
+
+
+
+
+### Day 28-29: October 22,2022
+- ✅ Daily Code Wars Kata
+- ✅ Worked on Daily Banki
+- ✅ Completed my Anki Due
+
+**Thoughts:**
+Anki is really useful and works best for repetitive learning
