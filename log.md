@@ -231,3 +231,9 @@ Writing blogs is an efficient way of developing your writing skills and also it 
 
 **Thoughts:**
 Anki is really useful and works best for repetitive learning
+
+
+### Day 30: October 23,2022
+- ✅ class 29 and also the homework
+- ✅ working on food website
+- ✅ daily BANKI 
