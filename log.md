@@ -237,3 +237,9 @@ Anki is really useful and works best for repetitive learning
 - ✅ class 29 and also the homework
 - ✅ working on food website
 - ✅ daily BANKI 
+
+### Day 31-33: October 26,2022
+- ✅ class 30 @100Devs
+- ✅ daily banki
+- ✅ daily codewars kata
+- ✅ working on professional checklist by leon
