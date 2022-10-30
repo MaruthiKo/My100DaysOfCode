@@ -243,3 +243,11 @@ Anki is really useful and works best for repetitive learning
 - ✅ daily banki
 - ✅ daily codewars kata
 - ✅ working on professional checklist by leon
+
+
+### Day 34-35: October 28,2022
+-✅ Class 31 #100Devs
+-✅ Revising OOPS in JS
+-✅ Working on a project from FrontEnd Practice
+-✅ Revising CSS
+-✅ Daily BANKI & Code Wars
