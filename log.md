@@ -246,8 +246,15 @@ Anki is really useful and works best for repetitive learning
 
 
 ### Day 34-35: October 28,2022
--✅ Class 31 #100Devs
--✅ Revising OOPS in JS
--✅ Working on a project from FrontEnd Practice
--✅ Revising CSS
--✅ Daily BANKI & Code Wars
+- ✅ Class 31 #100Devs
+- ✅ Revising OOPS in JS
+- ✅ Working on a project from FrontEnd Practice
+- ✅ Revising CSS
+- ✅ Daily BANKI & Code Wars
+
+### Day 36-39: November 1,2022
+- ✅ Class 32,33 #100Devs
+- ✅ Daily Code Wars Kata
+- ✅ Reworking on HTML,CSS
+- ✅ Podcasts on Web Development
+- ✅ Working on Professional Checklist
