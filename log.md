@@ -258,3 +258,9 @@ Anki is really useful and works best for repetitive learning
 - ✅ Reworking on HTML,CSS
 - ✅ Podcasts on Web Development
 - ✅ Working on Professional Checklist
+
+### Day 40: November 2,2022
+- ✅ Refreshing CSS topics such as Position, Color, Typography  
+- ✅ Daily Code Wars Kata
+- ✅ Working on the Tic Tac Toe project with @raelimasina
+- ✅ Watched a podcast on Front-End Dev
