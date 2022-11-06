@@ -265,7 +265,25 @@ Anki is really useful and works best for repetitive learning
 - ✅ Working on the Tic Tac Toe project with @raelimasina
 - ✅ Watched a podcast on Front-End Dev
 
-### Day 41: #100DaysOfCode
+### Day 41: November 3,2022
 - ✅ Refreshed Positioning of elements in CSS 
 - ✅ Daily Code Wars Kata
 - ✅ Made a ppt on college project
+
+### Day 42: November 4,2022
+- ✅Daily Code Wars Kata
+- ✅ Class 34 #100Devs
+- ✅ Working on my Professional Checklist, Starting with AngelList profile
+- ✅ Completed a TicTacToe game with @raelimasina
+
+### Day 43: November 5,2022
+- ✅class 34 #100Devs 
+- ✅ Daily Code Wars Kata
+- ✅ Basics of CSS by Codecademy
+
+### Day 44: November 6,2022
+- ✅ Learnt about Layouts in CSS
+- ✅ Daily Code Wars Kata
+- ✅ Revamped my LinkedIn profile 
+- ✅ Completed FlexBox Froggy  
+- ✅ Started with a course on Digital Marketing
