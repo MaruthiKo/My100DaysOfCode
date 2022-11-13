@@ -287,3 +287,17 @@ Anki is really useful and works best for repetitive learning
 - ✅ Revamped my LinkedIn profile 
 - ✅ Completed FlexBox Froggy  
 - ✅ Started with a course on Digital Marketing
+
+### Day45: November 7,2022
+- ✅ Github 1:1 micro-mentoring session
+- ✅ Brief intro about CSS grid
+- ✅ Watched Mayan Wolfe stream on BANKI 
+- ✅ Daily Code Wars Kata
+
+### Day 46-51: November 13,2022
+- ✅ Working on Revamping Portfolio
+- ✅ Learnt CSS media queries & CSS Grid
+- ✅ Completed grid garden
+- ✅ 4 modules of Digital Marketing course by google
+- ✅ Daily Code Wars Kata
+- ✅ Strategizing to start leet code
